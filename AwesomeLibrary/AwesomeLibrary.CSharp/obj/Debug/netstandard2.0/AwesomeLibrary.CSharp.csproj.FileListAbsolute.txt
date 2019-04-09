@@ -1,0 +1,12 @@
+D:\repos\AwesomeLibrary\AwesomeLibrary.CSharp\bin\Debug\netstandard2.0\AwesomeLibrary.CSharp.deps.json
+D:\repos\AwesomeLibrary\AwesomeLibrary.CSharp\bin\Debug\netstandard2.0\AwesomeLibrary.CSharp.dll
+D:\repos\AwesomeLibrary\AwesomeLibrary.CSharp\bin\Debug\netstandard2.0\AwesomeLibrary.CSharp.pdb
+D:\repos\AwesomeLibrary\AwesomeLibrary.CSharp\obj\Debug\netstandard2.0\AwesomeLibrary.CSharp.csprojAssemblyReference.cache
+D:\repos\AwesomeLibrary\AwesomeLibrary.CSharp\obj\Debug\netstandard2.0\AwesomeLibrary.CSharp.csproj.CoreCompileInputs.cache
+D:\repos\AwesomeLibrary\AwesomeLibrary.CSharp\obj\Debug\netstandard2.0\AwesomeLibrary.CSharp.AssemblyInfoInputs.cache
+D:\repos\AwesomeLibrary\AwesomeLibrary.CSharp\obj\Debug\netstandard2.0\AwesomeLibrary.CSharp.AssemblyInfo.cs
+D:\repos\AwesomeLibrary\AwesomeLibrary.CSharp\obj\Debug\netstandard2.0\AwesomeLibrary.CSharp.dll
+D:\repos\AwesomeLibrary\AwesomeLibrary.CSharp\obj\Debug\netstandard2.0\AwesomeLibrary.CSharp.pdb
+D:\repos\AwesomeLibrary\AwesomeLibrary.CSharp\bin\Debug\netstandard2.0\AwesomeLibrary.Core.dll
+D:\repos\AwesomeLibrary\AwesomeLibrary.CSharp\bin\Debug\netstandard2.0\AwesomeLibrary.Core.pdb
+D:\repos\AwesomeLibrary\AwesomeLibrary.CSharp\obj\Debug\netstandard2.0\AwesomeLibrary.CSharp.csproj.CopyComplete

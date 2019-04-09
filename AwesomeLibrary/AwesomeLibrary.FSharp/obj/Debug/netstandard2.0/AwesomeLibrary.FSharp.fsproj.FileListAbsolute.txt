@@ -1,0 +1,8 @@
+D:\repos\AwesomeLibrary\AwesomeLibrary.FSharp\bin\Debug\netstandard2.0\AwesomeLibrary.FSharp.deps.json
+D:\repos\AwesomeLibrary\AwesomeLibrary.FSharp\bin\Debug\netstandard2.0\AwesomeLibrary.FSharp.dll
+D:\repos\AwesomeLibrary\AwesomeLibrary.FSharp\bin\Debug\netstandard2.0\AwesomeLibrary.FSharp.pdb
+D:\repos\AwesomeLibrary\AwesomeLibrary.FSharp\obj\Debug\netstandard2.0\AwesomeLibrary.FSharp.fsprojAssemblyReference.cache
+D:\repos\AwesomeLibrary\AwesomeLibrary.FSharp\obj\Debug\netstandard2.0\AwesomeLibrary.FSharp.AssemblyInfoInputs.cache
+D:\repos\AwesomeLibrary\AwesomeLibrary.FSharp\obj\Debug\netstandard2.0\AwesomeLibrary.FSharp.AssemblyInfo.fs
+D:\repos\AwesomeLibrary\AwesomeLibrary.FSharp\obj\Debug\netstandard2.0\AwesomeLibrary.FSharp.dll
+D:\repos\AwesomeLibrary\AwesomeLibrary.FSharp\obj\Debug\netstandard2.0\AwesomeLibrary.FSharp.pdb
